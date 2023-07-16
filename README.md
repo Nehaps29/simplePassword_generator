@@ -1,7 +1,7 @@
 # simplePassword_generator
 
 ## Password Generator
-My motivation behind creating this app was to make password generation easier for users. It is simple to use and gives you various options like length of password and use of special characters etc. for creating a unique password. 
+My motivation behind creating this app was to make password generation easier for users. It is simple to use and gives you various options like length of password and use of special characters etc. for creating a unique password. Users just have to click on the Generate Password button and select the desired character set, and password will be generated.  
 
 
 ## Installation
