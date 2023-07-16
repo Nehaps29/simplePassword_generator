@@ -12,10 +12,10 @@ It looks like below picture:
 
 
 ## Credits
-W3schools: https://www.w3schools.com/css/default.asp
-MDN Web Docs: https://developer.mozilla.org/en-US/
-Source code from Rutgers Gitlab: https://git.bootcampcontent.com/Rutgers-University/RUT-VIRT-FSF-PT-06-2023-U-LOLC/-/tree/main/03-JavaScript/02-Challenge
-Rutgers TA 
+- W3schools: https://www.w3schools.com/css/default.asp
+- MDN Web Docs: https://developer.mozilla.org/en-US/
+- Source code from Rutgers Gitlab: https://git.bootcampcontent.com/Rutgers-University/RUT-VIRT-FSF-PT-06-2023-U-LOLC/-/tree/main/03-JavaScript/02-Challenge
+- Rutgers TA 
 
 
 ## License
