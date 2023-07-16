@@ -7,7 +7,7 @@ function generatePassword() {
   conditionArray = [];
   upper = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
   lower = 'abcdefghijklmnopqrstuvwxyz';
-  special = '!@#$%^&*()?<>{}[]|';
+  special = '!@#$%^&*()?<>{}["+=-./;:_|`]|'; // "\" cannot include in special characters due to operating system
   number = '1234567890';
   var length = parseInt(prompt("Please enter length between 8-128"));
   if // checking the length and character conditions
