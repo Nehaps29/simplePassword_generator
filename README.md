@@ -6,6 +6,9 @@ My motivation behind creating this app was to make password generation easier fo
 
 ## Installation
 Browser to open the link: 
+It looks like below picture:
+
+![Getting Started](./assets/images/simple_password.JPG)
 
 
 ## Credits
